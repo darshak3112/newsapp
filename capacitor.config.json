@@ -1,0 +1,6 @@
+{
+  "appId": "com.newsApp.app",
+  "appName": "newsApp",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
